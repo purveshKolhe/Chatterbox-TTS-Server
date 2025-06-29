@@ -27,7 +27,7 @@ numpy==1.26.4                   # Fundamental numerical computing
 librosa                         # Advanced audio/music analysis
 safetensors                     # Safe tensor serialization format
 descript-audio-codec            # Audio codec for ML applications
-
+onnx==1.14.1
 # --- Audio I/O & Processing ---
 soundfile                       # Audio file I/O (requires libsndfile system library)
 pydub                          # Simple audio manipulation
